@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project is the remaining part of the ecommerce project and i am using here the same api which i made for the ecommerce project.
+
+<img width="1262" alt="1" src="https://user-images.githubusercontent.com/57535574/171860983-04546a5d-a1d1-407b-b0af-42d054cc6175.png">
+
+
 ## Available Scripts
 
 In the project directory, you can run:
