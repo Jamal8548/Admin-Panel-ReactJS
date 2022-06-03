@@ -2,9 +2,47 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project is the remaining part of the ecommerce project and i am using here the same api which i made for the ecommerce project.
+This project is also part of the ecommerce project and i am using here the same api which i made for the ecommerce project.
 
 <img width="1262" alt="1" src="https://user-images.githubusercontent.com/57535574/171860983-04546a5d-a1d1-407b-b0af-42d054cc6175.png">
+
+
+<img width="1267" alt="2" src="https://user-images.githubusercontent.com/57535574/171944837-73a252ee-2c6f-4f40-b673-b8c428d51259.png">
+
+
+
+<img width="1275" alt="3" src="https://user-images.githubusercontent.com/57535574/171944883-b3160713-3fc3-4a01-b259-850fb79b464e.png">
+
+
+<img width="1274" alt="4" src="https://user-images.githubusercontent.com/57535574/171944912-bd034786-9678-4034-bdb1-9a61d9531e85.png">
+
+
+<img width="1268" alt="5" src="https://user-images.githubusercontent.com/57535574/171944943-b5c4d7af-7599-46ba-997d-875b67d41d7f.png">
+
+
+
+<img width="1039" alt="6" src="https://user-images.githubusercontent.com/57535574/171944974-11796678-aa6d-4bd8-896f-47027507bf3a.png">
+
+
+<img width="1273" alt="7" src="https://user-images.githubusercontent.com/57535574/171945015-513f7d5f-9f85-4154-9fcc-188b00ec90b9.png">
+
+
+
+<img width="1277" alt="product" src="https://user-images.githubusercontent.com/57535574/171945064-f36c58cf-5096-4e14-b9d9-8113026c214e.png">
+
+<img width="1274" alt="products 2" src="https://user-images.githubusercontent.com/57535574/171945089-33f0f06d-54e1-4f5b-93f1-6379e3bee663.png">
+
+
+<img width="1277" alt="delete pro" src="https://user-images.githubusercontent.com/57535574/171945139-77755eee-70ee-4eb7-a790-c5ee0f890684.png">
+
+
+<img width="1279" alt="prod details" src="https://user-images.githubusercontent.com/57535574/171945169-de54782a-9c75-4f87-b91a-c24b1bdc1b0d.png">
+
+
+
+<img width="1280" alt="new prod" src="https://user-images.githubusercontent.com/57535574/171945238-1490bbbb-10ab-44ef-bca7-0abc1ebc03d2.png">
+
+
 
 
 ## Available Scripts
